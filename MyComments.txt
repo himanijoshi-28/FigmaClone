@@ -1,0 +1,4 @@
+AS this is figma clone we will use "fabric js library " to handle and manipulate elemnts on canvas 
+
+liveblocks-> allwows you to show live updates of other users -> follow docs .
+(uses Room concept)
